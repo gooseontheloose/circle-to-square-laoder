@@ -1,2 +1,4 @@
-# circle-to-square-laoder
-preloader based off dying light loading animation
+# Circle to Square loader animation
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Oliver-Kirsch/pen/eYbYZea](https://codepen.io/Oliver-Kirsch/pen/eYbYZea).
+
